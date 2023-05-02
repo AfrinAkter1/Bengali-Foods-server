@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Chef John Smith",
+        "years_of_experience": 15,
+        "num_recipes": 200,
+        "likes": 5000,
+        "description": "Chef John Smith has been cooking for over 15 years and has created over 200 unique recipes. His dishes are known for their bold flavors and creative presentations.",
+        "picture": "https://example.com/chef-john-smith.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chef Emily Nguyen",
+        "years_of_experience": 10,
+        "num_recipes": 150,
+        "likes": 3500,
+        "description": "Chef Emily Nguyen has been cooking for over 10 years and has created over 150 unique recipes. She specializes in Vietnamese cuisine and her dishes are known for their delicate balance of flavors.",
+        "picture": "https://example.com/chef-emily-nguyen.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Chef Miguel Hernandez",
+        "years_of_experience": 20,
+        "num_recipes": 250,
+        "likes": 8000,
+        "description": "Chef Miguel Hernandez has been cooking for over 20 years and has created over 250 unique recipes. He is a master of Mexican cuisine and his dishes are known for their bold flavors and use of fresh, locally-sourced ingredients.",
+        "picture": "https://example.com/chef-miguel-hernandez.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chef Alice Lee",
+        "years_of_experience": 5,
+        "num_recipes": 100,
+        "likes": 2000,
+        "description": "Chef Alice Lee has been cooking for 5 years and has already created over 100 unique recipes. She specializes in vegan cuisine and her dishes are known for their inventive use of plant-based ingredients.",
+        "picture": "https://example.com/chef-alice-lee.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chef Ricardo Martinez",
+        "years_of_experience": 12,
+        "num_recipes": 180,
+        "likes": 4500,
+        "description": "Chef Ricardo Martinez has been cooking for over 12 years and has created over 180 unique recipes. He is a master of Spanish cuisine and his dishes are known for their bold flavors and use of high-quality ingredients.",
+        "picture": "https://example.com/chef-ricardo-martinez.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chef Sarah Kim",
+        "years_of_experience": 8,
+        "num_recipes": 120,
+        "likes": 3000,
+        "description": "Chef Sarah Kim has been cooking for 8 years and has already created over 120 unique recipes. She specializes in Korean cuisine and her dishes are known for their complex flavors and beautiful presentation.",
+        "picture": "https://example.com/chef-sarah-kim.jpg"
+      }
+
+]
