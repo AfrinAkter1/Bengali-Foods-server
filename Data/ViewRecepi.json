@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "name": "Chef John Smith",
+        "years_of_experience": 15,
+        "num_recipes": 200,
+        "likes": 5000,
+        "description": "Chef John Smith has been cooking for over 15 years and has created over 200 unique recipes. His dishes are known for their bold flavors and creative presentations.",
+        "picture": "https://img.freepik.com/free-photo/female-chef-pointing-finger-smartphone-white-uniform-looking-cheerful-front-view_176474-13431.jpg?w=1060&t=st=1683057123~exp=1683057723~hmac=eb0c7646ac82502e08e82558552a10f96f448c9ae055eef91c7ece5763c3df33",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+    },
+      {
+        "id": 2,
+        "name": "Chef Emily Nguyen",
+        "years_of_experience": 10,
+        "num_recipes": 150,
+        "likes": 3500,
+        "description": "Chef Emily Nguyen has been cooking for over 10 years and has created over 150 unique recipes. She specializes in Vietnamese cuisine and her dishes are known for their delicate balance of flavors.",
+        "picture": "https://img.freepik.com/free-photo/handsome-young-bearded-chef-man-wearing-white-cooker-uniform-hat-showing-blank-space-mobile-phone-white-wall_141793-32606.jpg?w=996&t=st=1683057201~exp=1683057801~hmac=55c128be3044e95af4781919a42df2e265f0ecc3a681e2795a01c668442a0dde",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chef Miguel Hernandez",
+        "years_of_experience": 20,
+        "num_recipes": 250,
+        "likes": 8000,
+        "description": "Chef Miguel Hernandez has been cooking for over 20 years and has created over 250 unique recipes. He is a master of Mexican cuisine and his dishes are known for their bold flavors and use of fresh, locally-sourced ingredients.",
+        "picture": "https://img.freepik.com/free-photo/chef-enjoying-smell-soup-ladle_23-2147863819.jpg?w=900&t=st=1683057255~exp=1683057855~hmac=5f2ab58e963259efda83051f1b159da9c7dcf935ee1d49cef3f6db12e4abc681",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Chef Alice Lee",
+        "years_of_experience": 5,
+        "num_recipes": 100,
+        "likes": 2000,
+        "description": "Chef Alice Lee has been cooking for 5 years and has already created over 100 unique recipes. She specializes in vegan cuisine and her dishes are known for their inventive use of plant-based ingredients.",
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-showing-pointing-with-hand-mobile-phone-isolated-orange-wall_141793-101274.jpg?w=996&t=st=1683057308~exp=1683057908~hmac=d1ab9f910e3fe08ba18e789055ea4ae9d6b84a21acd148f504b0071c3c9bff08",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Chef Ricardo Martinez",
+        "years_of_experience": 12,
+        "num_recipes": 180,
+        "likes": 4500,
+        "description": "Chef Ricardo Martinez has been cooking for over 12 years and has created over 180 unique recipes. He is a master of Spanish cuisine and his dishes are known for their bold flavors and use of high-quality ingredients.",
+        "picture": "https://img.freepik.com/free-photo/smiling-middle-aged-male-cook-chef-uniform-holding-laptob-showing-yes-gesture_141793-37789.jpg?w=996&t=st=1683057405~exp=1683058005~hmac=746f56203d35e6bd44703bb6b6c2133e246f370e91093709c4c4459deabe8527",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Chef Sarah Kim",
+        "years_of_experience": 8,
+        "num_recipes": 120,
+        "likes": 3000,
+        "description": "Chef Sarah Kim has been cooking for 8 years and has already created over 120 unique recipes. She specializes in Korean cuisine and her dishes are known for their complex flavors and beautiful presentation.",
+        "picture": "https://img.freepik.com/free-photo/pleased-adult-male-cook-wearing-chef-uniform-glasses-holding-pot-mobile-phone-looking-mobile-phone-isolated-purple-wall_141793-120277.jpg?w=900&t=st=1683057454~exp=1683058054~hmac=52be9336d3ad7cc935a2b9d688c33290757c5169d9c9a7e309807d1d772eebc8",
+        "recipes": [
+            {
+              "name":"Chingri Macher Malaikari" ,
+              "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+              "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+            },
+            {
+                "name":"Bhuna Khichuri",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              },
+            {
+                "name":"Shorshe Ilish",
+                "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+                "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
+              }
+        ]
+      }
+
+]
