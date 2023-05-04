@@ -10,16 +10,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"4.5",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"3.5",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"4.0",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
@@ -36,16 +42,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"4.0",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"4.5",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"4.2",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
@@ -62,16 +74,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"4.3",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"4.5",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"3.5",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
@@ -88,16 +106,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"2.5",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"3.5",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"4.4",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
@@ -114,16 +138,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"4.5",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"4.2",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"4.5",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
@@ -140,16 +170,22 @@
         "recipes": [
             {
               "name":"Chingri Macher Malaikari" ,
+              "rating":"3.5",
+              "img":"https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?w=1060&t=st=1683214653~exp=1683215253~hmac=3e19834695557aeb5a682988c0bb158edd78c06ccf1d206aae07bc49782f6fd4",
               "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
               "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
             },
             {
                 "name":"Bhuna Khichuri",
+                "rating":"3.5",
+                "img":"https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?size=626&ext=jpg&ga=GA1.2.977297310.1680196639&semt=ais", 
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               },
             {
                 "name":"Shorshe Ilish",
+                "rating":"4.4",
+                "img":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=900&t=st=1683215055~exp=1683215655~hmac=38119a1a8beb279af5e490c816ee514089bd98ecc7286a6318311ab4ec77684f",
                 "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
                 "ingredients": ["prawns", "coconut milk", "ginger paste", "garlic paste", "red chili powder", "turmeric powder", "salt"]
               }
